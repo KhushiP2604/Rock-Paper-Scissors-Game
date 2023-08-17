@@ -60,9 +60,7 @@ int main()
         } 
         //in case of a Draw, the game is played again until there's a Winner
     
-    }
-    printf("working fine");
-    while(draw);
+    }while(draw);
         return 0;
 
 }
